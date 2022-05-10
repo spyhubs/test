@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Spy Hub BETA v2.1                                       Made by spy#1290", "GrapeTheme")
+local Window = Library.CreateLib("Spy Hub BETA v2.1                                       Made by spy#1290", "Sentinel")
 local Tab = Window:NewTab("Credits")
 local Section = Tab:NewSection("Spy Hub Beta")
 local Section = Tab:NewSection("Developer : spy#1290")
